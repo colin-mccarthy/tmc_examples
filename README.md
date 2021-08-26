@@ -84,7 +84,7 @@ Workspaces can be used to group namespaces from one or more clusters, and can be
  - Image Registries
  - Network
  - Security
- - Quaota
+ - Quota
  - Custom
 
  ### Templates
