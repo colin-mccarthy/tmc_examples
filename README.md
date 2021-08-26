@@ -1,4 +1,6 @@
+## Cluster Groups
 
+Cluster groups can be used to group clusters and apply a common set of policies to these clusters. Clusters in a cluster group can exist in one or more physical environments, and can be shared across teams.
 
 ## All clusters
 
