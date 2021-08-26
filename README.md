@@ -47,6 +47,8 @@ These clusters can exist in different cluster groups and can exist in one or mor
 
 ## Create Cluster
 
+<img src="/screenshots/create_cluster.png" width="450"> 
+
 Create Cluster button > Choose Management Cluster > Choose Provisioner > 
 
   ### Name - Choose your clusters name and assign it to a cluster group
