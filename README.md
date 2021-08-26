@@ -65,3 +65,24 @@ Create Cluster button > Choose Management Cluster > Choose Provisioner >
   ### Select Control Plane - choose between a single nore or Highly available
   
   ### Edit and add node pools - Customize the default node pool
+  
+  
+  
+## WorkSpaces
+ 
+Workspaces can be used to group namespaces from one or more clusters, and can be shared across teams.
+
+## Namespaces
+
+## Workloads
+
+## Policies
+ 
+ ### Assignments
+ 
+ - Access
+ - Image Registries
+ - Network
+ - Security
+ - Quaota
+ - Custom
