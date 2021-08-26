@@ -5,7 +5,7 @@
 This is a view of all clusters across your organization that you have permissions to view. 
 These clusters can exist in different cluster groups and can exist in one or more physical environment
 
-<img src="/screenshots/sort-by.png" width="450"> 
+<img src="/screenshots/sort-by.png" width="650"> 
 
 ## Sort by:
 
