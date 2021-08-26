@@ -43,3 +43,19 @@ These clusters can exist in different cluster groups and can exist in one or mor
  ### Managment Cluster
  - aws-hosted
  - tanzu
+
+
+## Create Cluster
+
+Create Cluster button > Choose Management Cluster > Choose Provisioner > 
+
+  ### Name - Choose your clusters name and assign it to a cluster group
+  - Name 
+  - Description
+  - Labels
+  
+  ### Configure - Select you Kubernetes version, network and storage options
+  
+  ### Select Control Plane - choose between a single nore or Highly available
+  
+  ### Edit and add node pools - Customize the default node pool
