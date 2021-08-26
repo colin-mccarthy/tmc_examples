@@ -89,6 +89,20 @@ Workspaces can be used to group namespaces from one or more clusters, and can be
 
  ### Templates
  
+A custom policy template provides a declarative definition of a custom policy using the Open Policy Agent (OPA) framework and its policy language (Rego). You can define the template here, and then implement it using a custom policy. For information about OPA, go to openpolicyagent.org/docs/latest.
+ 
  ### Insights
+ 
+ ### Inspections
+ 
+ ### Events
+ 
+## Administration
+
+## Automation Center
+
+## Audit Logs
+
+## Dark Mode
  
  
