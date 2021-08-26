@@ -49,7 +49,7 @@ These clusters can exist in different cluster groups and can exist in one or mor
 
 ## Create Cluster
 
-<img src="/screenshots/create-cluster.png" width="450"> 
+<img src="/screenshots/create-cluster.png" width="650"> 
 
 Create Cluster button > Choose Management Cluster > Choose Provisioner > 
 
