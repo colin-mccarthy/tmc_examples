@@ -99,6 +99,14 @@ A custom policy template provides a declarative definition of a custom policy us
  
 ## Administration
 
+ ### Acounts
+ 
+ ### Access
+ 
+ ### Integrations
+ 
+ ### Managment clusters
+
 ## Automation Center
 
 ## Audit Logs
