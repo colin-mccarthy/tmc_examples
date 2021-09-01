@@ -112,4 +112,4 @@ A custom policy template provides a declarative definition of a custom policy us
 
 https://www.youtube.com/watch?v=6IIu_ADecDo - 12/1/20 Demo: Tanzu Mission Control Integrated with Tanzu Kubernetes Grid Service
  
- 
+https://www.youtube.com/watch?v=SwummrRK1F8 - 2/1/21  Demo: Tanzu Mission Control for Hybrid Cloud with Azure
