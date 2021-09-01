@@ -104,5 +104,12 @@ A custom policy template provides a declarative definition of a custom policy us
 ## Audit Logs
 
 ## Dark Mode
+
+
+
+
+## Resources
+
+https://www.youtube.com/watch?v=6IIu_ADecDo - 12/1/20 Demo: Tanzu Mission Control Integrated with Tanzu Kubernetes Grid Service
  
  
