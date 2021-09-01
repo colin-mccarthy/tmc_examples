@@ -7,7 +7,10 @@ Cluster groups can be used to group clusters and apply a common set of policies 
 ## All Clusters
 
 This is a view of all clusters across your organization that you have permissions to view. 
-These clusters can exist in different cluster groups and can exist in one or more physical environment
+These clusters can exist in different cluster groups and can exist in one or more physical environment.
+
+We upgrade clusters from here, or retreive the kubconfig file as well.
+
 
 <img src="/screenshots/sort-by.png" width="650"> 
 
@@ -69,6 +72,8 @@ Create Cluster button > Choose Management Cluster > Choose Provisioner >
   ### Select Control Plane - choose between a single nore or Highly available
   
   ### Edit and add node pools - Customize the default node pool
+  
+  We can scale nodes up or down as well as change the instance type.
   
   
   
