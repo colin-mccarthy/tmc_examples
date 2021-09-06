@@ -98,6 +98,10 @@ Story:
 TMC utilizes the open source project GateKeeper https://github.com/open-policy-agent/gatekeeper
 
 Story: As a Kubernetes Admin You can enforce policies to help manage your cluster. Imagine you log on and find a namespace, who does this belong to? Can I delete this? Is this being used in production? TMC will allow us to add a policy that requires every namespace that gets created must have a label added that identifies the owner. If someone tries tot create a namespace with out this label they will get an error with a nice message.
+
+You could also set policies that ban the use of the latest tag on a container image.
+
+Or perhaps set resource limits to keep costs down, etc..
  
  ### Assignments
  
