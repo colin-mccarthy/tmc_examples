@@ -2,6 +2,8 @@
 
 Cluster groups can be used to group clusters and apply a common set of policies to these clusters. Clusters in a cluster group can exist in one or more physical environments, and can be shared across teams.
 
+Story: 
+
 
 
 ## All Clusters
@@ -10,6 +12,8 @@ This is a view of all clusters across your organization that you have permission
 These clusters can exist in different cluster groups and can exist in one or more physical environment.
 
 We upgrade clusters from here, or retreive the kubconfig file as well.
+
+Story:
 
 
 <img src="/screenshots/sort-by.png" width="650"> 
@@ -42,7 +46,9 @@ We upgrade clusters from here, or retreive the kubconfig file as well.
  
  ### Cluster Group
  
- By specifying a cluster group, this will automatticly apply and polices from that group to the cluster.
+ By specifying a cluster group, this will automatically apply and polices from that group to the cluster.
+ 
+ Story:
  
  ### Type
  - Provisioned
@@ -81,6 +87,8 @@ Create Cluster button > Choose Management Cluster > Choose Provisioner >
  
 Workspaces can be used to group namespaces from one or more clusters, and can be shared across teams.
 
+Story:
+
 ## Namespaces
 
 ## Workloads
@@ -118,12 +126,16 @@ A custom policy template provides a declarative definition of a custom policy us
  
  In the access section of our Administration tab, we can set who has what level of access to the workload clusters.
  
+ Story:
+ 
  ### Integrations
  
  ### Managment clusters
  
 Register Supervisor clusters in Vsphere 7 here. Give it a name, then select a cluster group, Then take the generated URL and input it into the Supervisor cluster.
 You should then see the cluster show up in the list of managment clusters.
+
+Story:
 
 ## Automation Center
 
@@ -139,3 +151,5 @@ You should then see the cluster show up in the list of managment clusters.
 https://www.youtube.com/watch?v=6IIu_ADecDo - 12/1/20 Demo: Tanzu Mission Control Integrated with Tanzu Kubernetes Grid Service
  
 https://www.youtube.com/watch?v=SwummrRK1F8 - 2/1/21  Demo: Tanzu Mission Control for Hybrid Cloud with Azure
+
+https://www.youtube.com/watch?v=6Kur5MXg7us - 7/5/19  Gatekeeper: Flexible, Shareable Policy for Kubernetes - Craig Peters, Mircosoft
