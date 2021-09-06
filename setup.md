@@ -2,7 +2,9 @@
 
 Tips:
 
-Create a Stack for Your Cloud Provider Account Connection
+1. Create a provider
+
+2. Create a Stack for Your Cloud Provider Account Connection
 
 https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-using/GUID-750ADD13-F4CE-422A-BB08-F55304B4C355.html
 
