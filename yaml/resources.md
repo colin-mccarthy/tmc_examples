@@ -25,7 +25,17 @@ k describe tkn -n <namespace> <clustername>
 ```
 
 
-Pod Security Policy
+Cluster Role Binding for Pod Security Policy
 ```
 kubectl create clusterrolebinding psp:authenticated --clusterrole=psp:vmware-system-privileged --group=system:authenticated
 ```
+
+
+create secret then patch service account
+```
+kubectl create secret docker-registry regcred --docker-server=<harbor IP> --docker-username=<username> --docker-password=<password>
+
+kubectl patch serviceaccount default -p '{"imagePullSecrets": [{"name": "regcred"}]}'
+```
+
+
