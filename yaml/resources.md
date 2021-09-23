@@ -23,3 +23,9 @@ run during update
 ```
 k describe tkn -n <namespace> <clustername>
 ```
+
+
+Pod Security Policy
+```
+kubectl create clusterrolebinding psp:authenticated --clusterrole=psp:vmware-system-privileged --group=system:authenticated
+```
